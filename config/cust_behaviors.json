@@ -1,0 +1,10 @@
+[
+	{
+		"code": "PSCRN",
+		"name": "PSCRN",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
